@@ -1,0 +1,678 @@
+{
+    "PolygonData//面数据": [
+        {
+            "Name//名称": "1#",
+            "ChartData面曲线数据": [{
+                "Data//数值": 10,
+                "Time//时间": "2023-05-15 00:00:00"
+            },],
+            "IsCenterPoinitNameMarkText//是否显示中心名称标记": true,
+            "CenterPoinitNameMarkTextPoinit//中心名称标记点位置": {
+                "X//该点水平方向中心索引": 719,
+                "Y//该点垂直方向中心数值": 15
+            },
+            "IsHorizontalAnnotationMarkLine//是否显示水平方向标记线": true,
+            "HorizontalAnnotationMarkLineData//水平方向标记线显示数值": 15,
+            "IsToolTip//是否显示提示框数据": false,
+            "YAxisIndex//y轴索引": 0,
+            "FillColor//图形填充颜色": "#c23531",
+            "StrokeColor//图形描边颜色": "#c23531",
+            "MarkLineTextColor//标记线文本颜色": "#c23531",
+            "IsShowMarkLineText//是否显示标记线文本": true,
+            "BorderType//线类型（实线：solid,虚线:dashed）": "solid",
+            "Opacity//透明度": 0.8,
+            "ZLevel//层级": 1,
+            "LineWidth//线宽": 2
+        }
+    ],
+    "PolylineData//线数据": [
+        {
+            "Name//名称": "1#",
+            "ChartData": [
+                {
+                    "Data//数值": "",
+                    "Time//时间": "2023-05-15 00:00:00",
+                    "Status//水泵开停状态（如果表示水泵开停数据,该字段意义）": "关闭"
+                }
+            ],
+            "IsToolTip//是否显示提示框数据": true,
+            "YAxisIndex//y轴索引": 0,
+            "FillColor//图形填充颜色": "#c23531",
+            "StrokeColor//图形描边颜色": "#c23531",
+            "MarkLineTextColor//标记线文本颜色": "#c23531",
+            "IsShowMarkLineText//是否显示标记线文本": true,
+            "BorderType//线类型（实线：solid,虚线:dashed）": "dashed",
+            "IsMarkPoint//是否显示标记点": true,
+            "LineLabel//是否显示线标签": "",
+            "LineLabelPoinit//线标签标记点位置": {
+                "X//该点水平方向中心索引": 0,
+                "Y//该点垂直方向中心数值": 15
+            },
+            "ZLevel//层级": 2,
+            "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0
+        }
+    ],
+    "GridConfig//grid配置": {
+        "BackGroundColor//背景颜色": "#eee",
+        "BorderColor//边框颜色": "#00ff00",
+        "BorderWidth//边框宽度 Number类型": 2,
+        "GridIsShow//是否显示grid": true
+    },
+    "XAxisConfig//x轴配置": {
+        "show//是否显示x轴": true,
+        "AxisLine//x轴线配置": {
+            "show//是否显示x轴线": true,
+            "symbol//轴线两边的箭头。可以是字符串，表示两端使用同样的箭头；或者长度为 2 的字符串数组，分别表示两端的箭头。默认不显示箭头，即 'none'。两端都显示箭头可以设置为 'arrow'，只在末端显示箭头可以设置为 ['none', 'arrow']": [
+                "none",
+                "none"
+            ],
+            "symbolSize轴线两边的箭头的大小，第一个数字表示宽度（垂直坐标轴方向），第二个数字表示高度（平行坐标轴方向）": [
+                10,
+                15
+            ],
+            "symbolOffset轴线两边的箭头的偏移，如果是数组，第一个数字表示起始箭头的偏移，第二个数字表示末端箭头的偏移；如果是数字，表示这两个箭头使用同样的偏移。": [
+                0,
+                0
+            ],
+            "lineStyle//线的样式配置": {
+                "color//颜色": "#222222",
+                "width//线的宽度 Number类型": 1,
+                "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                "opacity//透明度": 1
+            }
+        },
+        "AxisTick//坐标轴刻度相关设置。": {
+            "show//是否显示坐标轴刻度。": true,
+            "length//坐标轴刻度的长度": 15,
+            "inside//坐标轴刻度是否朝内，默认朝外。": true,
+            "lineStyle//线的样式配置": {
+                "color//颜色": "#222222",
+                "width//线的宽度": 1,
+                "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                "opacity//透明度": 1
+            }
+        },
+        "SplitLine//坐标轴在 grid 区域中的分隔线。": {
+            "show//是否显示分隔线。默认数值轴显示，类目轴不显示。": false,
+            "lineStyle": {
+                "color分隔线颜色，可以设置成单个颜色。也可以设置成颜色数组，分隔线会按数组中颜色的顺序依次循环设置颜色。": [
+                    "#222"
+                ],
+                "width//线的宽度": 1,
+                "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                "opacity//透明度": 1
+            }
+        },
+        "MinorSplitLine//坐标轴在 grid 区域中的次分隔线。次分割线会对齐次刻度线 minorTick": {
+            "show//是否显示次分隔线。默认不显示。": false,
+            "lineStyle//线的样式配置": {
+                "color//颜色": "#222222",
+                "width//线的宽度": 1,
+                "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                "opacity//透明度": 1
+            }
+        },
+        "AxisLabel//坐标轴刻度标签的相关设置": {
+            "IsShow//是否显示刻度标签。": true,
+            "Color//刻度标签文字的颜色": "#222"
+        },
+        "SplitArea//坐标轴在 grid 区域中的分隔区域，默认不显示。": {
+            "show/是否显示分隔区域。": false,
+            "interval": "auto",
+            "areaStyle//分隔区域的样式设置。": {
+                "color//分隔区域颜色。分隔区域会按数组中颜色的顺序依次循环设置颜色。默认是一个深浅的间隔色。": [
+                    "rgba(250,250,250,0.3)",
+                    "rgba(200,200,200,0.3)"
+                ],
+                "opacity//透明度": 1
+            }
+        }
+    },
+    "IshowYAxisName//是否显示y轴名称":true,
+    "YAxisConfig//y轴配置数据": [
+        {
+            "Name//y轴名称": "流量",
+            "MinMax//y轴最小值最大值": [
+                0,
+                130
+            ],
+            "show//是否显示y轴": true,
+            "AxisLine//x轴线配置": {
+                "show//是否显示x轴线": true,
+                "symbol//轴线两边的箭头。可以是字符串，表示两端使用同样的箭头；或者长度为 2 的字符串数组，分别表示两端的箭头。默认不显示箭头，即 'none'。两端都显示箭头可以设置为 'arrow'，只在末端显示箭头可以设置为 ['none', 'arrow']": [
+                    "none",
+                    "none"
+                ],
+                "symbolSize轴线两边的箭头的大小，第一个数字表示宽度（垂直坐标轴方向），第二个数字表示高度（平行坐标轴方向）": [
+                    10,
+                    15
+                ],
+                "symbolOffset轴线两边的箭头的偏移，如果是数组，第一个数字表示起始箭头的偏移，第二个数字表示末端箭头的偏移；如果是数字，表示这两个箭头使用同样的偏移。": [
+                    0,
+                    0
+                ],
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度 Number类型": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisTick//坐标轴刻度相关设置。": {
+                "show//是否显示坐标轴刻度。": false,
+                "length//坐标轴刻度的长度": 15,
+                "inside//坐标轴刻度是否朝内，默认朝外。": true,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "SplitLine//坐标轴在 grid 区域中的分隔线。": {
+                "show//是否显示分隔线。默认数值轴显示，类目轴不显示。": false,
+                "lineStyle": {
+                    "color分隔线颜色，可以设置成单个颜色。也可以设置成颜色数组，分隔线会按数组中颜色的顺序依次循环设置颜色。": [
+                        "#222"
+                    ],
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "MinorSplitLine//坐标轴在 grid 区域中的次分隔线。次分割线会对齐次刻度线 minorTick": {
+                "show//是否显示次分隔线。默认不显示。": false,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisLabel//坐标轴刻度标签的相关设置": {
+                "IsShow//是否显示刻度标签。": true,
+                "Color//刻度标签文字的颜色": "#222"
+            },
+            "SplitArea//坐标轴在 grid 区域中的分隔区域，默认不显示。": {
+                "show/是否显示分隔区域。": false,
+                "interval": "auto",
+                "areaStyle//分隔区域的样式设置。": {
+                    "color//分隔区域颜色。分隔区域会按数组中颜色的顺序依次循环设置颜色。默认是一个深浅的间隔色。": [
+                        "rgba(250,250,250,0.3)",
+                        "rgba(200,200,200,0.3)"
+                    ],
+                    "opacity//透明度": 1
+                }
+            }
+        },
+        {
+            "Name//y轴名称": "液位",
+            "MinMax//y轴最小值最大值": [
+                0,
+                20000
+            ],
+            "show//是否显示y轴": true,
+            "AxisLine//x轴线配置": {
+                "show//是否显示x轴线": true,
+                "symbol//轴线两边的箭头。可以是字符串，表示两端使用同样的箭头；或者长度为 2 的字符串数组，分别表示两端的箭头。默认不显示箭头，即 'none'。两端都显示箭头可以设置为 'arrow'，只在末端显示箭头可以设置为 ['none', 'arrow']": [
+                    "none",
+                    "none"
+                ],
+                "symbolSize轴线两边的箭头的大小，第一个数字表示宽度（垂直坐标轴方向），第二个数字表示高度（平行坐标轴方向）": [
+                    10,
+                    15
+                ],
+                "symbolOffset轴线两边的箭头的偏移，如果是数组，第一个数字表示起始箭头的偏移，第二个数字表示末端箭头的偏移；如果是数字，表示这两个箭头使用同样的偏移。": [
+                    0,
+                    0
+                ],
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度 Number类型": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisTick//坐标轴刻度相关设置。": {
+                "show//是否显示坐标轴刻度。": false,
+                "length//坐标轴刻度的长度": 15,
+                "inside//坐标轴刻度是否朝内，默认朝外。": true,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "SplitLine//坐标轴在 grid 区域中的分隔线。": {
+                "show//是否显示分隔线。默认数值轴显示，类目轴不显示。": false,
+                "lineStyle": {
+                    "color分隔线颜色，可以设置成单个颜色。也可以设置成颜色数组，分隔线会按数组中颜色的顺序依次循环设置颜色。": [
+                        "#222"
+                    ],
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "MinorSplitLine//坐标轴在 grid 区域中的次分隔线。次分割线会对齐次刻度线 minorTick": {
+                "show//是否显示次分隔线。默认不显示。": false,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisLabel//坐标轴刻度标签的相关设置": {
+                "IsShow//是否显示刻度标签。": true,
+                "Color//刻度标签文字的颜色": "#222"
+            },
+            "SplitArea//坐标轴在 grid 区域中的分隔区域，默认不显示。": {
+                "show/是否显示分隔区域。": false,
+                "interval": "auto",
+                "areaStyle//分隔区域的样式设置。": {
+                    "color//分隔区域颜色。分隔区域会按数组中颜色的顺序依次循环设置颜色。默认是一个深浅的间隔色。": [
+                        "rgba(250,250,250,0.3)",
+                        "rgba(200,200,200,0.3)"
+                    ],
+                    "opacity//透明度": 1
+                }
+            }
+        },
+        {
+            "Name//y轴名称": "压力",
+            "MinMax//y轴最小值最大值": [
+                0,
+                1
+            ],
+            "show//是否显示y轴": true,
+            "AxisLine//x轴线配置": {
+                "show//是否显示x轴线": true,
+                "symbol//轴线两边的箭头。可以是字符串，表示两端使用同样的箭头；或者长度为 2 的字符串数组，分别表示两端的箭头。默认不显示箭头，即 'none'。两端都显示箭头可以设置为 'arrow'，只在末端显示箭头可以设置为 ['none', 'arrow']": [
+                    "none",
+                    "none"
+                ],
+                "symbolSize轴线两边的箭头的大小，第一个数字表示宽度（垂直坐标轴方向），第二个数字表示高度（平行坐标轴方向）": [
+                    10,
+                    15
+                ],
+                "symbolOffset轴线两边的箭头的偏移，如果是数组，第一个数字表示起始箭头的偏移，第二个数字表示末端箭头的偏移；如果是数字，表示这两个箭头使用同样的偏移。": [
+                    0,
+                    0
+                ],
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度 Number类型": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisTick//坐标轴刻度相关设置。": {
+                "show//是否显示坐标轴刻度。": false,
+                "length//坐标轴刻度的长度": 15,
+                "inside//坐标轴刻度是否朝内，默认朝外。": true,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "SplitLine//坐标轴在 grid 区域中的分隔线。": {
+                "show//是否显示分隔线。默认数值轴显示，类目轴不显示。": false,
+                "lineStyle": {
+                    "color分隔线颜色，可以设置成单个颜色。也可以设置成颜色数组，分隔线会按数组中颜色的顺序依次循环设置颜色。": [
+                        "#222"
+                    ],
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "MinorSplitLine//坐标轴在 grid 区域中的次分隔线。次分割线会对齐次刻度线 minorTick": {
+                "show//是否显示次分隔线。默认不显示。": false,
+                "lineStyle//线的样式配置": {
+                    "color//颜色": "#222222",
+                    "width//线的宽度": 1,
+                    "type//线的类型：solid  实线或者dashed  虚线": "solid",
+                    "dashOffset//用于设置虚线的偏移量，可搭配 type 指定 dash array 实现灵活的虚线效果。": 0,
+                    "opacity//透明度": 1
+                }
+            },
+            "AxisLabel//坐标轴刻度标签的相关设置": {
+                "IsShow//是否显示刻度标签。": true,
+                "Color//刻度标签文字的颜色": "#222"
+            },
+            "SplitArea//坐标轴在 grid 区域中的分隔区域，默认不显示。": {
+                "show/是否显示分隔区域。": false,
+                "interval": "auto",
+                "areaStyle//分隔区域的样式设置。": {
+                    "color//分隔区域颜色。分隔区域会按数组中颜色的顺序依次循环设置颜色。默认是一个深浅的间隔色。": [
+                        "rgba(250,250,250,0.3)",
+                        "rgba(200,200,200,0.3)"
+                    ],
+                    "opacity//透明度": 1
+                }
+            }
+        }
+    ],
+    "LegendData//图例配置数据": [
+        {
+            "name//图例名称（*字段为name禁止更改*）": "虚线1",
+            "itemStyle//图例样式（*字段为itemStyle禁止更改*）": {
+                "color//图例颜色（*字段为color禁止更改*）": "blue"
+            },
+            "textStyle//文本样式（*字段为textStyle禁止更改*）": {
+                "color//文本颜色（*字段为color禁止更改*）": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "曲线1",
+            "itemStyle": {
+                "color": "green"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "上下限1",
+            "itemStyle": {
+                "color": "#FF0033"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "上下限2",
+            "itemStyle": {
+                "color": "#bda29a"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "流量1",
+            "itemStyle": {
+                "color": "#CC0033"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "流量2",
+            "itemStyle": {
+                "color": "#FFCC33"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "流量3",
+            "itemStyle": {
+                "color": "#333399"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "流量4",
+            "itemStyle": {
+                "color": "#FF0033"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        },
+        {
+            "name//图例名称（*字段为name禁止更改*）": "流量5",
+            "itemStyle": {
+                "color": "#666699"
+            },
+            "textStyle": {
+                "color": "#000"
+            }
+        }
+    ],
+    "SelectLegendData//图例是否选中配置数据": {
+        "虚线1//图例名称（true 选中 显示图形）": true,
+        "曲线1": true,
+        "散点图1": true,
+        "散点图2": true,
+        "散点图3": true,
+        "流量1": false,
+        "流量2": false,
+        "流量3": false,
+        "流量4": false,
+        "流量5": false,
+        "上下限1": false,
+        "上下限2": false
+    },
+    "MarkLineData//垂直标记线数据": [
+        {
+            "SymbolType//标记线两端图标是否显示（1.custom 自定义显示  2.none 不显示）": "none",
+            "CustomSymbolIcon//标记线两端图标类型（1.智能调度时刻2.实际调度时刻3.当前时刻4.默认图片5.triangle 形状）": "",
+            "Data": [
+                {
+                    "Time//标记线对应的x轴数值": "2023-05-15 13:28:00",
+                    "Data//标记线对应的y轴数值": null,
+                    "Color//标记线颜色": "#000",
+                    "IsLabel//是否显示线标签": false,
+                    "BorderType/线类型（实线：solid,虚线:dashed": "solid",
+                    "LineWidth//线宽": 1
+                }
+            ]
+        },
+        {
+            "SymbolType": "none",
+            "CustomSymbolIcon": "",
+            "Data": [
+                {
+                    "Time": "2023-05-15 19:28:00",
+                    "Data": null,
+                    "Color": "red",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 1
+                }
+            ]
+        },
+        {
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "triangle",
+            "Data": [
+                {
+                    "Time": "2023-05-15 02:28:00",
+                    "Data": null,
+                    "Color": "#927",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 2
+                }
+            ]
+        },
+        {
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "智能调度时刻",
+            "Data": [
+                {
+                    "Time": "2023-05-15 03:28:00",
+                    "Data": null,
+                    "Color": "#327",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 2
+                }
+            ]
+        },
+        {
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "实际调度时刻",
+            "Data": [
+                {
+                    "Time": "2023-05-15 05:28:00",
+                    "Data": null,
+                    "Color": "#327",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 2
+                }
+            ]
+        },
+        {
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "当前时刻",
+            "Data": [
+                {
+                    "Time": "2023-05-15 09:28:00",
+                    "Data": null,
+                    "Color": "#327",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 2
+                }
+            ]
+        },
+        {
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "默认图片",
+            "Data": [
+                {
+                    "Time": "2023-05-15 10:28:00",
+                    "Data": null,
+                    "Color": "#822",
+                    "IsLabel": false,
+                    "BorderType": "dashed",
+                    "LineWidth": 2
+                }
+            ]
+        }
+    ],
+    "MarkPointData": [
+        {
+            "IsLabel//是否显示标签": true,
+            "SymbolType//用来判断symbol是否是自定义图标 1.default 2.custom": "default",
+            "CustomSymbolIcon//Symbol的名称": "circle",
+            "Coord//标记点位置坐标": [
+                "2023-05-15 00:08:00",
+                86
+            ],
+            "FillColor//标记点填充颜色": "red",
+            "BorderWidth//边框宽度": 0,
+            "BorderColor//标记点边线颜色": "#000",
+            "BorderType//标记点边线类型": "dashed",
+            "SymbolSize//symbol的尺寸大小": 30,
+            "Opacity//透明度": 0.8,
+        }
+    ],
+    "XAxisList//x轴数据数组（该数组长度以最长线图形的数组长度为准）": ["2023-05-15 00:00:00",],
+    "ContentList//额外信息数据": [
+        {
+            "Title//标题": "实际液位(m)",
+            "Data//数据": 123,
+            "Unit//单位": ""
+        },
+
+    ],
+    "Name//模块标题": "清水池水位",
+    "DataZoomIsShow//是否启用DataZoom": false,
+    "ScatterPointData": [
+        {
+            "Name//名称": "散点图1",
+            "IsLabel//是否显示线标签": false,
+            "SymbolType//用来判断symbol是否是自定义图标 1.default 2.custom": "custom",
+            "CustomSymbolIcon//Symbol的名称 （注：图片可以是base64图片，也可以为空值，为空值是前端默认的自定义图标）": "data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7",
+            "ChartData//散点图数据": [
+                {
+                    "Time时间": "2023-05-15 00:00:00",
+                    "Data//数据值": 5756,
+                    "SymbolSize//单个图标尺寸": 8,
+                    "Name//单个散点图名称": "散点图1",
+                    "Info//预留字段": ""
+                }
+            ],
+            "IsToolTip//是否显示提示框数据": true,
+            "YAxisIndex//y轴索引": 1,
+            "FillColor//图形填充颜色": "#333399",
+            "BorderWidth//边框宽度": 0,
+            "BorderType/边框类型": "solid",
+            "BorderColor/边框颜色": "#000",
+            "SymbolSize//图片全局尺寸": 8,
+            "Opacity//透明度": 0.8,
+            "ZLevel//图层层级": 3,
+            "Large//是否开启大数据量优化，在数据图形特别多而出现卡顿时候可以开启。开启后配合 largeThreshold 在数据量大于指定阈值的时候对绘制进行优化。缺点：优化后不能自定义设置单个数据项的样式。": true,
+            "LargeThreshold//开启绘制优化的阈值。": 2000
+        },
+        {
+            "Name": "散点图2",
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "diamond",
+            "ChartData": [
+                {
+                    "Time": "2023-05-15 00:00:00",
+                    "Data": 10866,
+                    "SymbolSize": 21,
+                    "Name": "散点图2",
+                    "Info": ""
+                }
+            ],
+            "IsToolTip": true,
+            "YAxisIndex": 1,
+            "FillColor": "#FF0033",
+            "BorderWidth": 0,
+            "BorderType": "solid",
+            "BorderColor": "#000",
+            "SymbolSize": 8,
+            "Opacity": 0.8,
+            "ZLevel": 3,
+            "Large": true,
+            "LargeThreshold": 2000
+        },
+        {
+            "Name": "散点图3",
+            "IsLabel": false,
+            "SymbolType": "custom",
+            "CustomSymbolIcon": "",
+            "ChartData": [{
+                "Time": "2023-05-15 00:00:00",
+                "Data": 5756,
+                "SymbolSize": 14,
+                "Name": "散点图3",
+                "Info": ""
+            }],
+            "IsToolTip": true,
+            "YAxisIndex": 1,
+            "FillColor": "#666699",
+            "BorderWidth": 0,
+            "BorderType": "solid",
+            "BorderColor": "#000",
+            "SymbolSize": 8,
+            "Opacity": 0.8,
+            "ZLevel": 3,
+            "Large": false,
+            "LargeThreshold": 2000
+        }
+    ],
+}
