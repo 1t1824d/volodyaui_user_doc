@@ -1,6 +1,6 @@
 ## 使用配置
 
-?> 通用点线面组合Chart图
+?> 通用点线面组合Chart图 _MyCustomPumpChartLine_
 
 ```
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{

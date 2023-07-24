@@ -1,0 +1,84 @@
+{
+    "Name": "//String 水厂名称 默认值 :null",
+    "ChartTitle": "曲线标题",
+    "ChartSubTitle": "曲线副标题",
+    "ChartTitleIsShow": "//布尔类型 是否显示曲线标题 默认false",
+    "ContentList": [
+       {
+          "Title": "实际液位(m)-----// String 标题 默认值 :null",
+          "Data": "123----//Number 数据 默认值 :null",
+          "Unit": "// String 单位 默认值 :null"
+       },
+       {
+          "Title": "预测进水量(m3/h)：----// String 标题 默认值 :null",
+          "Data": "123----//Number 数据 默认值 :null",
+          "Unit": "// String 单位 默认值 :null"
+       }
+    ],
+    "Max": "///Number 最大值  默认值 :null",
+    "Min": "///Number 最小值  默认值 :null",
+    "Bar_x": "//Array X轴数据数组 默认值:[] //Array X轴数据数组 默认值:[] ",
+    "IsVerticalRow": "false, //是否是竖向柱状图 true 竖向 false 横向",
+    "TopAlign": " true, //柱状图的柱条标签是否是顶端对齐（竖向是top端水平居中对齐 横向right端垂直居中对齐） true 顶端对齐",
+    "BackgroundIsShow": "false,//是否显示柱条的背景色",
+    "LabelIsShow": " true,//是否显示柱条的标签",
+    "XSplitLineIsShow": " false,//是否显竖向分割线",
+    "YSplitLineIsShow": "false,//是否显横向分割线",
+    "XMinorSplitLineIsShow": " false,//是否显竖向分割线(精度更高)",
+    "YMinorSplitLineIsShow": "false,//是否显横向分割线(精度更高)",
+    "XAxisIsShow": " false,//是否显X坐标轴",
+    "YAxisIsShow": "false,//是否显Y坐标轴",
+    "XAxisLabelIsShow": "false,//是否显X坐标轴标签",
+    "YAxisLabelIsShow": "true,//是否显Y坐标轴标签",
+    "GridIsShow": " true,//是否显Grid",
+    "BarData": [
+       {
+          "LegendName": "预测进水量,//图例名称",
+          "LegendColor": " #3D6DEB,//图例颜色",
+          "ChartBarList": [
+             {
+                "value": "200,//柱条数据",
+                "itemStyle": {
+                   "color": "#a90000//柱条颜色"
+                }
+             },
+             {
+                "value": 30,
+                "itemStyle": {
+                   "color": "#220000"
+                }
+             },
+             {
+                "value": 40,
+                "itemStyle": {
+                   "color": "#a90090"
+                }
+             },
+             {
+                "value": 50,
+                "itemStyle": {
+                   "color": "#190788"
+                }
+             },
+             {
+                "value": 60,
+                "itemStyle": {
+                   "color": "#450300"
+                }
+             },
+             {
+                "value": 70,
+                "itemStyle": {
+                   "color": "#353535"
+                }
+             },
+             {
+                "value": 80,
+                "itemStyle": {
+                   "color": "#003557"
+                }
+             }
+          ]
+       }
+    ]
+ }

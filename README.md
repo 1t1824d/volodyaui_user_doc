@@ -31,6 +31,8 @@ Vue.use(volodyaui)
 
 
 ```
+点线面组合图
+
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{
         GraphicImg: require('./基础数据曲线背景1.png'),
         XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'yyyy-MM-dd hh' },
@@ -50,14 +52,23 @@ Vue.use(volodyaui)
 ```
 
 ```
+通用柱状图
+
+<component :is="'MyCustomBarChart'" :itemChart="BarChartList"></component> 
+
+```
+
+```
+倒计时
 
   <my-clock textColor="red"></my-clock>//倒计时组件
 
 ```
 
 ```
+按钮
 
-  <my-button disabled>222</my-button>  //按钮
+  <my-button disabled>222</my-button> 
   <my-button>333</my-button>
 
 ```

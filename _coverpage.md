@@ -9,5 +9,5 @@
 - 简单、易用
 - 开箱即用
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://www.npmjs.com/package/volodyaui)
 [Get Started](README.md)

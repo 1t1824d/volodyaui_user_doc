@@ -1,0 +1,92 @@
+{
+    "Name": "清水池水位",
+    "ChartTitle": "曲线标题",
+    "ChartSubTitle": "曲线副标题",
+    "ChartTitleIsShow": false,
+    "ContentList": [
+        {
+            "Title": "实际液位(m)",
+            "Data": 123,
+            "Unit": ""
+        },
+        {
+            "Title": "预测进水量(m3/h)：",
+            "Data": 123,
+            "Unit": ""
+        }
+    ],
+    "IsVerticalRow": true,
+    "TopAlign": false,
+    "BackgroundIsShow": false,
+    "LabelIsShow": true,
+    "XSplitLineIsShow":false,
+    "YSplitLineIsShow":false,
+    "XMinorSplitLineIsShow":false,
+    "YMinorSplitLineIsShow":false,
+    "XAxisIsShow":false,
+    "YAxisIsShow":false,
+    "XAxisLabelIsShow":false,
+    "YAxisLabelIsShow":true,
+    "GridIsShow":true,
+    "Max": 226,
+    "Min": 0,
+    "Bar_x": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+    ],
+    "BarData": [
+        {
+            "LegendName": "预测进水量",
+            "LegendColor": "#3D6DEB",
+            "ChartBarList": [
+                {
+                    "value": 200,
+                    "itemStyle": {
+                        "color": "#a90000"
+                    }
+                },
+                {
+                    "value": 30,
+                    "itemStyle": {
+                        "color": "#220000"
+                    }
+                },
+                {
+                    "value": 40,
+                    "itemStyle": {
+                        "color": "#a90090"
+                    }
+                },
+                {
+                    "value": 50,
+                    "itemStyle": {
+                        "color": "#190788"
+                    }
+                },
+                {
+                    "value": 60,
+                    "itemStyle": {
+                        "color": "#450300"
+                    }
+                },
+                {
+                    "value": 70,
+                    "itemStyle": {
+                        "color": "#353535"
+                    }
+                },
+                {
+                    "value": 80,
+                    "itemStyle": {
+                        "color": "#003557"
+                    }
+                }
+            ]
+        }
+    ]
+}
