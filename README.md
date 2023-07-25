@@ -37,7 +37,7 @@ Vue.use(volodyaui)
         GraphicImg: require('./基础数据曲线背景1.png'),
         XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'yyyy-MM-dd hh' },
         YFormatterConfig: { IsFormatter: true, FormatterValue: 1 },
-        GridCofig: {
+        GridConfig: {
           Left: 60,
           Right: 60,
           Top: 50,
@@ -45,7 +45,11 @@ Vue.use(volodyaui)
         },
         TooltipConfig: {
           XAxisName: '流量'
-        }
+        },
+        ScatterConfig: {
+            SymbolSize: null,
+            SymbolImg: ''//require('./星星.png')
+          }
       }">
       </component>
 
