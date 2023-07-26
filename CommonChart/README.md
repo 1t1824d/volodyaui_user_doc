@@ -19,6 +19,9 @@
         ScatterConfig: {
             SymbolSize: null,
             SymbolImg: ''//require('./星星.png')
+          },
+        MarkLineConfig:{
+            Padding: [-30, 0, -30, 36]
           }
       }">
       </component>
@@ -56,9 +59,12 @@
         TooltipConfig: {//Tooltip配置
           XAxisName: '流量'
         },
-        ScatterConfig: {
+        ScatterConfig: {//散点图自定义配置
             SymbolSize: null,
             SymbolImg: ''//require('./星星.png')
+          },
+        MarkLineConfig:{//标记线自定义配置
+            Padding: [-30, 0, -30, 36]
           }
       }
 ```

@@ -49,6 +49,9 @@ Vue.use(volodyaui)
         ScatterConfig: {
             SymbolSize: null,
             SymbolImg: ''//require('./星星.png')
+          },
+        MarkLineConfig:{
+            Padding: [-30, 0, -30, 36]
           }
       }">
       </component>
