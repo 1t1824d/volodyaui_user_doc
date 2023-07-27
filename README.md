@@ -1,13 +1,10 @@
-
 ## 开发指南
 
 ```
 为了提升开发效率，实现绝大数功能开箱即用的目的，因此，对Echarts等插件进行二次封装。
 ```
 
-##  安装
-
-  
+## 安装
 
 ```
 
@@ -16,8 +13,6 @@ npm install volodyaui
 ```
 
 ## 引入
-
-
 
 ```
 
@@ -28,7 +23,6 @@ Vue.use(volodyaui)
 ```
 
 ## 使用
-
 
 ```
 点线面组合图
@@ -53,15 +47,24 @@ Vue.use(volodyaui)
         MarkLineConfig:{
             Padding: [-30, 0, -30, 36]
           }
-      }">
+      }"
+      @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun">
+      >
       </component>
+
+    //在数据选中状态发生变化时触发的事件
+    @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun">
+
+    MyCustomChartSelectchangedFun(Data) {
+      console.log(`MyCustomChartSelectchangedFun`, Data);
+    }
 
 ```
 
 ```
 通用柱状图
 
-<component :is="'MyCustomBarChart'" :itemChart="BarChartList"></component> 
+<component :is="'MyCustomBarChart'" :itemChart="BarChartList"></component>
 
 ```
 
@@ -75,10 +78,7 @@ Vue.use(volodyaui)
 ```
 按钮
 
-  <my-button disabled>222</my-button> 
+  <my-button disabled>222</my-button>
   <my-button>333</my-button>
 
 ```
-
-
-

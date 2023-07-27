@@ -23,7 +23,9 @@
         MarkLineConfig:{
             Padding: [-30, 0, -30, 36]
           }
-      }">
+      }"
+      @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun">
+      >
       </component>
 
 ```
@@ -67,6 +69,13 @@
             Padding: [-30, 0, -30, 36]
           }
       }
+      
+    //在数据选中状态发生变化时触发的事件
+    @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun">
+
+    MyCustomChartSelectchangedFun(Data) {
+      console.log(`MyCustomChartSelectchangedFun`, Data);
+    }
 ```
 
 ## 数据源字段说明
