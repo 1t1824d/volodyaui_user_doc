@@ -1,9 +1,11 @@
 ## 使用配置
 
+?> 通用点线面组合 Chart 图
+
 ```
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{
           GraphicImg: require('./基础数据曲线背景1.png'),
-          XFormatterConfig: Aciveitem.XFormatterConfig,
+          XFormatterConfig:{ IsFormatter: true, IsDate: false, FormatterValue: 1 ,Interval:999},
           YFormatterConfig: { IsFormatter: true, FormatterValue: 1 },
           GridConfig: {
             Left: 60,
@@ -70,6 +72,7 @@
        :CustomConfig="{
          GraphicImg: require('./基础数据曲线背景1.png'),//曲线背景图配置
           XFormatterConfig: {//x轴配置
+             Interval：999，//标签间隔
              IsFormatter: true, //x轴标签是否格式化
              IsDate: true, //x轴标签是否显示日期
              FormatterValue: 'yyyy-MM-dd hh'
@@ -153,6 +156,7 @@
       console.log(`${GetDataURLType}DataURL`, DataURL);
     }
 ```
+
 
 ## 数据源字段说明
 

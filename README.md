@@ -30,7 +30,7 @@ Vue.use(volodyaui)
 ```
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{
           GraphicImg: require('./基础数据曲线背景1.png'),
-          XFormatterConfig: Aciveitem.XFormatterConfig,
+          XFormatterConfig:{ IsFormatter: true, IsDate: false, FormatterValue: 1 ,Interval:999},
           YFormatterConfig: { IsFormatter: true, FormatterValue: 1 },
           GridConfig: {
             Left: 60,
@@ -97,6 +97,7 @@ Vue.use(volodyaui)
        :CustomConfig="{
          GraphicImg: require('./基础数据曲线背景1.png'),//曲线背景图配置
           XFormatterConfig: {//x轴配置
+             Interval：999，//标签间隔
              IsFormatter: true, //x轴标签是否格式化
              IsDate: true, //x轴标签是否显示日期
              FormatterValue: 'yyyy-MM-dd hh'
