@@ -6,8 +6,8 @@
                 "Data//数值": 10,
                 "Time//时间": "2023-05-15 00:00:00"
             },],
-            "IsCenterPoinitNameMarkText//是否显示中心名称标记": true,
-            "CenterPoinitNameMarkTextPoinit//中心名称标记点位置": {
+            "IsCenterPointNameMarkText//是否显示中心名称标记": true,
+            "CenterPointNameMarkTextPoint//中心名称标记点位置": {
                 "X//该点水平方向中心索引": 719,
                 "Y//该点垂直方向中心数值": 15
             },
@@ -44,12 +44,75 @@
             "BorderType//线类型（实线：solid,虚线:dashed）": "dashed",
             "IsMarkPoint//是否显示标记点": true,
             "LineLabel//是否显示线标签": "",
-            "LineLabelPoinit//线标签标记点位置": {
-                "X//该点水平方向中心索引": 0,
-                "Y//该点垂直方向中心数值": 15
+            "LineLabelPoint//线标签标记点位置": {
+                "X//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0,
+                "Y//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0
             },
             "ZLevel//层级": 2,
-            "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0
+            "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0,
+            "Opacity//透明度": 1,
+            "MarkPointData": [
+                {
+                    "IsLabel//是否显示标签": true,
+                    "SymbolType//用来判断symbol是否是自定义图标 1.default 2.custom": "default",
+                    "CustomSymbolIcon//Symbol的名称": "circle",
+                    "Coord//标记点位置坐标": [
+                        "2023-05-15 00:08:00",
+                        86
+                    ],
+                    "FillColor//标记点填充颜色": "red",
+                    "BorderWidth//边框宽度": 0,
+                    "BorderColor//标记点边线颜色": "#000",
+                    "BorderType//标记点边线类型": "dashed",
+                    "SymbolSize//symbol的尺寸大小": 30,
+                    "Opacity//透明度": 1,
+                }
+            ],
+        }
+    ],
+    "DefaultLineData//默认方法绘制线的数据（绘制大数据量的）": [
+        {
+            "Name//名称": "1#",
+            "ChartData": [
+                {
+                    "Data//数值": "",
+                    "Time//时间": "2023-05-15 00:00:00",
+                    "Status//水泵开停状态（如果表示水泵开停数据,该字段意义）": "关闭"
+                }
+            ],
+            "IsToolTip//是否显示提示框数据": true,
+            "YAxisIndex//y轴索引": 0,
+            "FillColor//图形填充颜色": "#c23531",
+            "StrokeColor//图形描边颜色": "#c23531",
+            "MarkLineTextColor//标记线文本颜色": "#c23531",
+            "IsShowMarkLineText//是否显示标记线文本": true,
+            "BorderType//线类型（实线：solid,虚线:dashed）": "dashed",
+            "IsMarkPoint//是否显示标记点": true,
+            "LineLabel//是否显示线标签": "",
+            "LineLabelPoint//线标签标记点位置": {
+                "X//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0,
+                "Y//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0
+            },
+            "ZLevel//层级": 2,
+            "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0,
+            "Opacity//透明度": 1,
+            "MarkPointData//标记点": [
+                {
+                    "IsLabel//是否显示标签": true,
+                    "SymbolType//用来判断symbol是否是自定义图标 1.default 2.custom": "default",
+                    "CustomSymbolIcon//Symbol的名称": "circle",
+                    "Coord//标记点位置坐标": [
+                        "2023-05-15 00:08:00",
+                        86
+                    ],
+                    "FillColor//标记点填充颜色": "red",
+                    "BorderWidth//边框宽度": 0,
+                    "BorderColor//标记点边线颜色": "#000",
+                    "BorderType//标记点边线类型": "dashed",
+                    "SymbolSize//symbol的尺寸大小": 30,
+                    "Opacity//透明度": 1,
+                }
+            ],
         }
     ],
     "GridConfig//grid配置": {
@@ -132,7 +195,7 @@
             }
         }
     },
-    "IshowYAxisName//是否显示y轴名称":true,
+    "IshowYAxisName//是否显示y轴名称": true,
     "YAxisConfig//y轴配置数据": [
         {
             "Name//y轴名称": "流量",
@@ -567,23 +630,6 @@
                     "LineWidth": 2
                 }
             ]
-        }
-    ],
-    "MarkPointData": [
-        {
-            "IsLabel//是否显示标签": true,
-            "SymbolType//用来判断symbol是否是自定义图标 1.default 2.custom": "default",
-            "CustomSymbolIcon//Symbol的名称": "circle",
-            "Coord//标记点位置坐标": [
-                "2023-05-15 00:08:00",
-                86
-            ],
-            "FillColor//标记点填充颜色": "red",
-            "BorderWidth//边框宽度": 0,
-            "BorderColor//标记点边线颜色": "#000",
-            "BorderType//标记点边线类型": "dashed",
-            "SymbolSize//symbol的尺寸大小": 30,
-            "Opacity//透明度": 0.8,
         }
     ],
     "XAxisList//x轴数据数组（该数组长度以最长线图形的数组长度为准）": ["2023-05-15 00:00:00",],
