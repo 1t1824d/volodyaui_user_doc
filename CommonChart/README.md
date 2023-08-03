@@ -4,141 +4,247 @@
 
 ```
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{
-          GraphicImg: require('./基础数据曲线背景1.png'),
-          XFormatterConfig:{ IsFormatter: true, IsDate: false, FormatterValue: 1 ,Interval:999},
-          YFormatterConfig: { IsFormatter: true, FormatterValue: 1 },
-          GridConfig: {
-            Left: 60,
-            Right: 60,
-            Top: 50,
-            Bottom: 20
-          },
-          TooltipConfig: {
-            XAxisName: '流量'
-          },
-          ScatterConfig: {
-            SymbolSize: null,
-            SymbolImg: ''//require('./星星.png')
-          },
-          PolygonDataConfig: {
-            TextFillColor: '#333',
-            MarkLineFontSize: 18,
-            LineWidth: 0
-          },
-          PolylineDataConfig: {
-            MarkPointDataConfig: {
-              LabelColor: '#fff',
-              LabelFontSize: 12,
-              IsAllSymbol: false
-            },
-            TextFontSize: 16,
-            SelectConfig: {
-              FillColor: '#333',
-              StrokeColor: '#D00907'
-            }
-          },
-          DefaultLineConfig: {
-            IsAllSymbol: false,
-            SymbolIcon: 'circle',
-            SymbolSize: 8,
-            SymbolColor: 'yellow',
-          },
-          AxisLabelConfig: {
-            FontSize: 12
-          },
-          LegendConfig: {
-            FontSize: 12,
-            FontColor: '#6E7B8B',
-          },
-          XAxisConfig: {
-            FontSize: 12,
-          },
-          MarkLineConfig: {
-            Padding: [-30, 0, -30, 46],
-            SymbolSize: 10
-          },
-          IsGetDataURL: false
-        }" @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun"
-          @MyCustomChartClickGetDataURL="MyCustomChartClickGetDataURLFun">
+                MarkLineConfig: {
+                    Padding: [-30, 0, -30, 66],
+                    SymbolSize: 10,
+                    FontSize: 12
+                },
+                ScatterConfig: {
+                    SymbolSize: null,
+                    SymbolImg: require('./chart/img/星星.png')
+                },
+                PolygonDataConfig: {
+                    TextFillColor: '#333',
+                    MarkLineFontSize: 16,
+                    LineWidth: 0
+                },
+                PolylineDataConfig: {
+                    MarkPointDataConfig: {
+                        LabelColor: '#fff',
+                        LabelFontSize: 12,
+                        IsAllSymbol: false
+                    },
+                    TextFontSize: 16,
+                    SelectConfig: {
+                        FillColor: '#333',
+                        StrokeColor: '#D00907'
+                    }
+                },
+                DefaultLineConfig: {
+                    IsAllSymbol: false,
+                    SymbolIcon: 'circle',
+                    SymbolSize: 8,
+                    SymbolColor: 'yellow',
+                },
+                YAxisConfig: ChartConfig.YAxisConfig,
+                YFormatterConfig: [
+                    { IsFormatter: true, FormatterValue: 1, Interval: '' },
+                    { IsFormatter: true, FormatterValue: 1, Interval: '' }
+                ],
+                XAxisConfig: ChartConfig.XAxisConfig,
+                XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'h', Interval: 240 },
+                GridConfig: {
+                    BackGroundColor: '#FFF',
+                    BorderColor: '#222',
+                    BorderWidth: 2,
+                    GridIsShow: true
+                },
+                GridFormatterConfig: {
+                    Left: 60,
+                    Right: 60,
+                    Top: 50,
+                    Bottom: 20
+                },
+                TooltipConfig: {
+                    XAxisName: '流量'
+                },
+                LegendConfig: {
+                    FontSize: 12,
+                    FontColor: '#6E7B8B',
+                },
+                GraphicImg: IsChartGraphicChecked ? require('./chart/img/编组 24.png') : '',
+                IsGetDataURL: false
+            }" @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun"
+                @MyCustomChartClickGetDataURL="MyCustomChartClickGetDataURLFun">
       </component>
 
 ```
-
+```
+ChartConfig: {
+                YAxisConfig: [
+                    {
+                        AxisLabel: {
+                            Color: 'red',
+                            IsShow: true,
+                            FontSize: 12,
+                            ShowMinLabel: null,
+                            ShowMaxLabel: null
+                        },
+                        AxisLine: {
+                            show: true,
+                            symbol: [
+                                'none',
+                                'none'
+                            ],
+                            'symbolSize': [
+                                10,
+                                15
+                            ],
+                            'symbolOffset': [
+                                0,
+                                0
+                            ],
+                            'lineStyle': {
+                                'color': 'red',
+                                'width': 1,
+                                'type': 'solid',
+                                'dashOffset': 0,
+                                'opacity': 1
+                            }
+                        },
+                        AxisTick: {
+                            'inside': false,
+                            'length': 5,
+                            'lineStyle': {
+                                'color': '#222',
+                                'dashOffset': 0,
+                                'opacity': 1,
+                                'type': 'solid',
+                                'width': 1
+                            },
+                            'show': true
+                        },
+                        MinorSplitLine: {
+                            lineStyle: null,
+                            show: false
+                        },
+                        SplitArea: {
+                            areaStyle: null,
+                            interval: null,
+                            show: false
+                        },
+                        SplitLine: {
+                            linestyle: null,
+                            show: false
+                        },
+                        show: true,
+                        Name: '',
+                        MinMax: null
+                    },
+                    {
+                        AxisLabel: {
+                            Color: 'red',
+                            IsShow: true
+                        },
+                        AxisLine: {
+                            lineStyle: null,
+                            show: false,
+                            symbol: null,
+                            symbolOffset: null,
+                            symbolSize: null
+                        },
+                        AxisTick: {
+                            'inside': false,
+                            'length': 5,
+                            'lineStyle': {
+                                'color': 'red',
+                                'dashOffset': 0,
+                                'opacity': 1,
+                                'type': 'solid',
+                                'width': 1
+                            },
+                            'show': true
+                        },
+                        'MinorSplitLine': {
+                            'lineStyle': null,
+                            'show': false
+                        },
+                        'SplitArea': {
+                            'areaStyle': null,
+                            'interval': null,
+                            'show': false
+                        },
+                        'SplitLine': {
+                            'linestyle': null,
+                            'show': false
+                        },
+                        'show': true,
+                        'Name': '',
+                        'MinMax': null
+                    }
+                ],
+                XAxisConfig: {
+                    AxisLabel: {
+                        Color: 'red',
+                        IsShow: true,
+                        FontSize: 12,
+                        ShowMinLabel: null,
+                        ShowMaxLabel: null
+                    },
+                    AxisLine: {
+                        show: true,
+                        symbol: [
+                            'none',
+                            'none'
+                        ],
+                        'symbolSize': [
+                            10,
+                            15
+                        ],
+                        'symbolOffset': [
+                            0,
+                            0
+                        ],
+                        'lineStyle': {
+                            'color': 'red',
+                            'width': 1,
+                            'type': 'solid',
+                            'dashOffset': 0,
+                            'opacity': 1
+                        }
+                    },
+                    AxisTick: {
+                        'inside': false,
+                        'length': 5,
+                        'lineStyle': {
+                            'color': '#222',
+                            'dashOffset': 0,
+                            'opacity': 1,
+                            'type': 'solid',
+                            'width': 1
+                        },
+                        'show': true
+                    },
+                    MinorSplitLine: {
+                        lineStyle: null,
+                        show: false
+                    },
+                    SplitArea: {
+                        areaStyle: null,
+                        interval: null,
+                        show: false
+                    },
+                    SplitLine: {
+                        linestyle: null,
+                        show: false
+                    },
+                    show: true,
+                    Name: '',
+                    MinMax: null
+                }
+            },
+```
 !> itemChart 数据源
 
 !> CustomConfig 自定义配置
 
 ```
-       :CustomConfig="{
-         GraphicImg: require('./基础数据曲线背景1.png'),//曲线背景图配置
-          XFormatterConfig: {//x轴配置
-             Interval：999，//标签间隔
-             IsFormatter: true, //x轴标签是否格式化
-             IsDate: true, //x轴标签是否显示日期
-             FormatterValue: 'yyyy-MM-dd hh'
-             //x轴标签传入的格式化条件
-             （
-             1.时间格式条件：'yyyy-MM-dd hh'，[详细参考Echarts文档](https://echarts.apache.org/zh/option.html#xAxis.axisLabel.formatter ':target=_blank')
-             2.数值格式化条件：1或10或100  1---取整  10----保留一位小数  100保留两位小数 ...
-             ）
-              },
-        YFormatterConfig: {//y轴配置
-             IsFormatter: true, //y轴标签是否格式化
-             FormatterValue: 1  //数值格式化条件：1或10或100  1---取整  10----保留一位小数  100保留两位小数 ...
-             },
-        GridConfig: {//Grid配置
-          Left: 60,
-          Right: 60,
-          Top: 50,
-          Bottom: 20
-        },
-        TooltipConfig: {//Tooltip配置
-          XAxisName: '流量'
-        },
-         ScatterConfig: {//散点图自定义配置
-            SymbolSize: null,
-            SymbolImg: ''//require('./星星.png')
-          },
-        MarkLineConfig:{//标记线自定义配置
-            Padding: [-30, 0, -30, 46],
-            SymbolSize: 10
-          }
-          PolygonDataConfig: {
-            TextFillColor: '#333',
-            MarkLineFontSize: 18,
-            LineWidth: 0
-          },
-          PolylineDataConfig: {
-            MarkPointDataConfig: {
-              LabelColor: '#fff',
-              LabelFontSize: 12,
-              IsAllSymbol: false
-            },
-            TextFontSize: 16,
-            SelectConfig: {
-              FillColor: '#333',
-              StrokeColor: '#D00907'
+      CustomConfig//自定义配置：{
+                GraphicImg: require('./chart/img/编组 24.png')//背景图片。GraphicImg不配置或者为空时chart背景图片不加载,
+                XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'h',Interval: 240 }//x轴格式化配置 IsFormatter 是否需要格式化 IsDate 是否是时间 FormatterValue 格式化的条件 如果是时间值为时间格式模板 h或hh 时,mm 分  具体参考：https://echarts.apache.org/zh/option.html#xAxis.axisLabel.formatter
+                如果是数字传入数字1,10,100...分别表示取整、保留一位小数、保留二位小数....,Interval 标签间隔 "auto" 自适应 （具体参照Echars官方文档 https://echarts.apache.org/zh/option.html#series-custom.renderItem.return_polygon.x）
+                 ....
             }
-          },
-          DefaultLineConfig: {
-            IsAllSymbol: false,
-            SymbolIcon: 'circle',
-            SymbolSize: 8,
-            SymbolColor: 'yellow',
-          },
-          AxisLabelConfig: {
-            FontSize: 12
-          },
-          LegendConfig: {
-            FontSize: 12,
-            FontColor: '#6E7B8B',
-          },
-          XAxisConfig: {
-            FontSize: 12,
-          },
-
-          IsGetDataURL: false//是否允许导出图片操作
-        }"
 
 
 

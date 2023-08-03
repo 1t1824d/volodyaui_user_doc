@@ -1,15 +1,15 @@
 {
-    "PolygonData//面数据": [
+    "PolygonData//面数据 数据类型：Array": [
         {
-            "Name//名称": "1#",
-            "ChartData面曲线数据": [{
+            "Name//名称 数据类型：String": "1#",
+            "ChartData面曲线数据 数据类型：Array": [{
                 "Data//数值": 10,
                 "Time//时间": "2023-05-15 00:00:00"
             },],
             "IsCenterPointNameMarkText//是否显示中心名称标记": true,
-            "CenterPointNameMarkTextPoint//中心名称标记点位置": {
-                "X//该点水平方向中心索引": 719,
-                "Y//该点垂直方向中心数值": 15
+            "CenterPointNameMarkTextPoint//该区域所有数据的中值点的x,y分别占x,y轴的百分比（后台计算得出，小数表示）": {
+                "X": 0.85,
+                "Y": 0.35
             },
             "IsHorizontalAnnotationMarkLine//是否显示水平方向标记线": true,
             "HorizontalAnnotationMarkLineData//水平方向标记线显示数值": 15,
@@ -35,6 +35,7 @@
                     "Status//水泵开停状态（如果表示水泵开停数据,该字段意义）": "关闭"
                 }
             ],
+            "IsSelectedMode//该条曲线是否可选中 true 可选中 false 不可选中 数据类型：Boolean":false,
             "IsToolTip//是否显示提示框数据": true,
             "YAxisIndex//y轴索引": 0,
             "FillColor//图形填充颜色": "#c23531",
@@ -44,10 +45,6 @@
             "BorderType//线类型（实线：solid,虚线:dashed）": "dashed",
             "IsMarkPoint//是否显示标记点": true,
             "LineLabel//是否显示线标签": "",
-            "LineLabelPoint//线标签标记点位置": {
-                "X//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0,
-                "Y//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0
-            },
             "ZLevel//层级": 2,
             "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0,
             "Opacity//透明度": 1,
@@ -89,10 +86,6 @@
             "BorderType//线类型（实线：solid,虚线:dashed）": "dashed",
             "IsMarkPoint//是否显示标记点": true,
             "LineLabel//是否显示线标签": "",
-            "LineLabelPoint//线标签标记点位置": {
-                "X//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0,
-                "Y//要在该曲线的第几个点的位置显示标签，0为第一个点显示标签": 0
-            },
             "ZLevel//层级": 2,
             "LineWidth//线宽（如果表示水泵开停数据,该字段为0）": 0,
             "Opacity//透明度": 1,
