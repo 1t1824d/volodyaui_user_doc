@@ -64,7 +64,7 @@
                     "SymbolSize//symbol的尺寸大小": 30,
                     "Opacity//透明度": 1,
                 }
-            ],
+            ]
         }
     ],
     "DefaultLineData//默认方法绘制线的数据（绘制大数据量的）": [
@@ -105,7 +105,7 @@
                     "SymbolSize//symbol的尺寸大小": 30,
                     "Opacity//透明度": 1,
                 }
-            ],
+            ]
         }
     ],
     "GridConfig//grid配置": {
@@ -631,11 +631,12 @@
             "Title//标题": "实际液位(m)",
             "Data//数据": 123,
             "Unit//单位": ""
-        },
+        }
 
     ],
     "Name//模块标题": "清水池水位",
-    "DataZoomIsShow//是否启用DataZoom": false,
+    "DataZoomIsShow//是否启用DataZoom 默认false": false,
+    "TooltipIsShow//是否显示提示框 默认true":true,
     "ScatterPointData": [
         {
             "Name//名称": "散点图1",
@@ -713,5 +714,5 @@
             "Large": false,
             "LargeThreshold": 2000
         }
-    ],
+    ]
 }
