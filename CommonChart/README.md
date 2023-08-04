@@ -6,22 +6,29 @@
    <component :is="'MyCustomPumpChartLine'" :itemChart="ChartData" :CustomConfig="{
                 MarkLineConfig: {
                     Padding: [-30, 0, -30, 66],
-                    SymbolSize: 10,
+                    SymbolSize: 30,
                     FontSize: 12
                 },
                 ScatterConfig: {
                     SymbolSize: null,
-                    SymbolImg: require('./chart/img/星星.png')
+                    SymbolImg: ''//require('./星星.png')
                 },
                 PolygonDataConfig: {
                     TextFillColor: '#333',
                     MarkLineFontSize: 16,
-                    LineWidth: 0
+                    MarkLineWidth: 3
                 },
                 PolylineDataConfig: {
                     MarkPointDataConfig: {
-                        LabelColor: '#fff',
+                        LabelColor: '#333',
                         LabelFontSize: 12,
+                        SymbolIcon: 'arrow',
+                        SymbolSize: 28,
+                        SymbolColor: 'red',
+                        SymbolBorderColor: '#222',
+                        SymbolBorderWidth: 2,
+                        SymbolBorderType: 'dashed',
+                        IsLabel: false,
                         IsAllSymbol: false
                     },
                     TextFontSize: 16,
@@ -31,15 +38,23 @@
                     }
                 },
                 DefaultLineConfig: {
-                    IsAllSymbol: false,
-                    SymbolIcon: 'circle',
-                    SymbolSize: 8,
-                    SymbolColor: 'yellow',
+                    MarkPointDataConfig: {
+                        LabelColor: '#333',
+                        LabelFontSize: 12,
+                        SymbolIcon: 'arrow',
+                        SymbolSize: 5,
+                        SymbolColor: 'red',
+                        SymbolBorderColor: '#222',
+                        SymbolBorderWidth: 0,
+                        SymbolBorderType: 'dashed',
+                        IsLabel: false,
+                        IsAllSymbol: true
+                    },
                 },
                 YAxisConfig: ChartConfig.YAxisConfig,
                 YFormatterConfig: [
-                    { IsFormatter: true, FormatterValue: 1, Interval: '' },
-                    { IsFormatter: true, FormatterValue: 1, Interval: '' }
+                    { IsFormatter: true, FormatterValue: 10, Interval: 'auto' },
+                    { IsFormatter: true, FormatterValue: 10, Interval: 'auto' }
                 ],
                 XAxisConfig: ChartConfig.XAxisConfig,
                 XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'h', Interval: 240 },
@@ -50,10 +65,10 @@
                     GridIsShow: true
                 },
                 GridFormatterConfig: {
-                    Left: 60,
-                    Right: 60,
-                    Top: 50,
-                    Bottom: 20
+                    // Left: 60,
+                    // Right: 60,
+                    // Top: 50,
+                    // Bottom: 20
                 },
                 TooltipConfig: {
                     XAxisName: '流量'
@@ -62,7 +77,7 @@
                     FontSize: 12,
                     FontColor: '#6E7B8B',
                 },
-                GraphicImg: IsChartGraphicChecked ? require('./chart/img/编组 24.png') : '',
+                GraphicImg: require('./chart/img/编组 24.png'),
                 IsGetDataURL: false
             }" @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun"
                 @MyCustomChartClickGetDataURL="MyCustomChartClickGetDataURLFun">
@@ -262,6 +277,87 @@ ChartConfig: {
       console.log(`${GetDataURLType}DataURL`, DataURL);
     }
 ```
+
+```
+:CustomConfig="{
+                MarkLineConfig: {
+                    Padding: [-30, 0, -30, 66],
+                    SymbolSize: 30,
+                    FontSize: 12
+                },
+                ScatterConfig: {
+                    SymbolSize: null,
+                    SymbolImg: ''//require('./星星.png')
+                },
+                PolygonDataConfig: {
+                    TextFillColor: '#333',
+                    MarkLineFontSize: 16,
+                    MarkLineWidth: 3
+                },
+                PolylineDataConfig: {
+                    MarkPointDataConfig: {
+                        LabelColor: '#333',
+                        LabelFontSize: 12,
+                        SymbolIcon: 'arrow',
+                        SymbolSize: 28,
+                        SymbolColor: 'red',
+                        SymbolBorderColor: '#222',
+                        SymbolBorderWidth: 2,
+                        SymbolBorderType: 'dashed',
+                        IsLabel: false,
+                        IsAllSymbol: false
+                    },
+                    TextFontSize: 16,
+                    SelectConfig: {
+                        FillColor: '#333',
+                        StrokeColor: '#D00907'
+                    }
+                },
+                DefaultLineConfig: {
+                    MarkPointDataConfig: {
+                        LabelColor: '#333',
+                        LabelFontSize: 12,
+                        SymbolIcon: 'arrow',
+                        SymbolSize: 5,
+                        SymbolColor: 'red',
+                        SymbolBorderColor: '#222',
+                        SymbolBorderWidth: 0,
+                        SymbolBorderType: 'dashed',
+                        IsLabel: false,
+                        IsAllSymbol: true
+                    },
+                },
+                YAxisConfig: ChartConfig.YAxisConfig,
+                YFormatterConfig: [
+                    { IsFormatter: true, FormatterValue: 10, Interval: 'auto' },
+                    { IsFormatter: true, FormatterValue: 10, Interval: 'auto' }
+                ],
+                XAxisConfig: ChartConfig.XAxisConfig,
+                XFormatterConfig: { IsFormatter: true, IsDate: true, FormatterValue: 'h', Interval: 240 },
+                GridConfig: {
+                    BackGroundColor: '#FFF',
+                    BorderColor: '#222',
+                    BorderWidth: 2,
+                    GridIsShow: true
+                },
+                GridFormatterConfig: {
+                    // Left: 60,
+                    // Right: 60,
+                    // Top: 50,
+                    // Bottom: 20
+                },
+                TooltipConfig: {
+                    XAxisName: '流量'
+                },
+                LegendConfig: {
+                    FontSize: 12,
+                    FontColor: '#6E7B8B',
+                },
+                GraphicImg: require('./chart/img/编组 24.png'),
+                IsGetDataURL: false
+            }" @MyCustomChartSelectchanged="MyCustomChartSelectchangedFun"
+                @MyCustomChartClickGetDataURL="MyCustomChartClickGetDataURLFun"
+  ```              
 
 
 ## 数据源字段说明
