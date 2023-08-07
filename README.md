@@ -328,6 +328,7 @@ Vue.use(volodyaui)
           },
           show: true,
           Type:"value",// "category",//
+          MinMax:null,
           Name: '',
 
         }
