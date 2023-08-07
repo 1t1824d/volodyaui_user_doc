@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-# volodyaui <small>0.0.30</small>
+# volodyaui <small>0.0.31</small>
 
 > volodyaui组件库文档
 
