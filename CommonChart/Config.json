@@ -105,7 +105,25 @@
                     "SymbolSize//symbol的尺寸大小": 30,
                     "Opacity//透明度": 1,
                 }
-            ]
+            ],
+            "Info":{
+              "Name":"当前流量曲线1",
+              "PumpList":[
+                {
+                  "No":"1",
+                  "Type":"定",
+                  "Status":"开启",
+                  "Speed":"",
+                  "Frequency":""
+                },{
+                  "No":"2",
+                  "Type":"定",
+                  "Status":"开启",
+                  "Speed":"",
+                  "Frequency":""
+                }
+              ]
+            }
         }
     ],
     "GridConfig//grid配置": {

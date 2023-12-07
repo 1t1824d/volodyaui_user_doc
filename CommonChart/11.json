@@ -1,0 +1,5689 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data":{
+    "ContentList": [
+      {
+        "Title": "流量",
+        "Data": "1000",
+        "Unit": "m³/h",
+        "BgColor": "#5F01E3"
+      },
+      {
+        "Title": "单耗",
+        "Data": "1634",
+        "Unit": "kw.h/万m³",
+        "BgColor": "#0D7B05"
+      },
+      {
+        "Title": "工况压力",
+        "Data": "0.287",
+        "Unit": "Mpa",
+        "BgColor": "#650B61"
+      }
+    ],
+    "IshowLegend": false,
+    "DataZoomIsShow": false,
+    "TooltipIsShow": false,
+    "GridConfig": {
+      "BackGroundColor": "#FFF",
+      "BorderColor": "#222",
+      "BorderWidth": 2,
+      "GridIsShow": true
+    },
+    "IshowYAxisName": true,
+    "LegendData": [],
+    "MarkLineData": [
+      {
+        "Data": [
+          {
+            "Time": "1000",
+            "Data": "",
+            "Color": "#FE1B00",
+            "IsLabel": false,
+            "BorderType": "solid",
+            "LineWidth": 2
+          }
+        ],
+        "CustomSymbolIcon": "",
+        "SymbolType": ""
+      }
+    ],
+    "DefaultLineData": [
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1431",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1030",
+            "Status": null
+          },
+          {
+            "Data": "1216",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1537",
+            "Status": null
+          },
+          {
+            "Data": "1151",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1986",
+            "Status": null
+          },
+          {
+            "Data": "1135",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2402",
+            "Status": null
+          },
+          {
+            "Data": "1143",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2797",
+            "Status": null
+          },
+          {
+            "Data": "1164",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3178",
+            "Status": null
+          },
+          {
+            "Data": "1195",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3549",
+            "Status": null
+          },
+          {
+            "Data": "1232",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3913",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1796",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1786",
+            "Status": null
+          },
+          {
+            "Data": "1282",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2879",
+            "Status": null
+          },
+          {
+            "Data": "1164",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3710",
+            "Status": null
+          },
+          {
+            "Data": "1129",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4423",
+            "Status": null
+          },
+          {
+            "Data": "1127",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5065",
+            "Status": null
+          },
+          {
+            "Data": "1142",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5659",
+            "Status": null
+          },
+          {
+            "Data": "1168",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6219",
+            "Status": null
+          },
+          {
+            "Data": "1202",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6753",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1224",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2392",
+            "Status": null
+          },
+          {
+            "Data": "1122",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3407",
+            "Status": null
+          },
+          {
+            "Data": "1107",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4229",
+            "Status": null
+          },
+          {
+            "Data": "1123",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4949",
+            "Status": null
+          },
+          {
+            "Data": "1155",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5607",
+            "Status": null
+          },
+          {
+            "Data": "1197",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6220",
+            "Status": null
+          },
+          {
+            "Data": "1245",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6800",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线1",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1030",
+              "1431"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1537",
+              "1216"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1986",
+              "1151"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2402",
+              "1135"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2797",
+              "1143"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3178",
+              "1164"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3549",
+              "1195"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3913",
+              "1232"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1786",
+              "1796"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2879",
+              "1282"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3710",
+              "1164"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4423",
+              "1129"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5065",
+              "1127"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5659",
+              "1142"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6219",
+              "1168"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6753",
+              "1202"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2392",
+              "1224"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3407",
+              "1122"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4229",
+              "1107"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4949",
+              "1123"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5607",
+              "1155"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6220",
+              "1197"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6800",
+              "1245"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线1",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1326",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1209",
+            "Status": null
+          },
+          {
+            "Data": "1186",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1691",
+            "Status": null
+          },
+          {
+            "Data": "1142",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2127",
+            "Status": null
+          },
+          {
+            "Data": "1136",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2535",
+            "Status": null
+          },
+          {
+            "Data": "1149",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2926",
+            "Status": null
+          },
+          {
+            "Data": "1174",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3303",
+            "Status": null
+          },
+          {
+            "Data": "1207",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3671",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1510",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2200",
+            "Status": null
+          },
+          {
+            "Data": "1227",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3174",
+            "Status": null
+          },
+          {
+            "Data": "1147",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3958",
+            "Status": null
+          },
+          {
+            "Data": "1126",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4643",
+            "Status": null
+          },
+          {
+            "Data": "1130",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5267",
+            "Status": null
+          },
+          {
+            "Data": "1150",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5849",
+            "Status": null
+          },
+          {
+            "Data": "1179",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6399",
+            "Status": null
+          },
+          {
+            "Data": "1215",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6926",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1504",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1439",
+            "Status": null
+          },
+          {
+            "Data": "1172",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2763",
+            "Status": null
+          },
+          {
+            "Data": "1112",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3696",
+            "Status": null
+          },
+          {
+            "Data": "1110",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4478",
+            "Status": null
+          },
+          {
+            "Data": "1133",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5174",
+            "Status": null
+          },
+          {
+            "Data": "1168",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5815",
+            "Status": null
+          },
+          {
+            "Data": "1212",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6416",
+            "Status": null
+          },
+          {
+            "Data": "1262",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6987",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线2",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1209",
+              "1326"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1691",
+              "1186"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2127",
+              "1142"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2535",
+              "1136"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2926",
+              "1149"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3303",
+              "1174"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3671",
+              "1207"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2200",
+              "1510"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3174",
+              "1227"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3958",
+              "1147"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4643",
+              "1126"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5267",
+              "1130"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5849",
+              "1150"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6399",
+              "1179"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6926",
+              "1215"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1439",
+              "1504"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2763",
+              "1172"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3696",
+              "1112"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4478",
+              "1110"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5174",
+              "1133"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5815",
+              "1168"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6416",
+              "1212"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6987",
+              "1262"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线2",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"4",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1614",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "837",
+            "Status": null
+          },
+          {
+            "Data": "1260",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1377",
+            "Status": null
+          },
+          {
+            "Data": "1165",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1841",
+            "Status": null
+          },
+          {
+            "Data": "1137",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2266",
+            "Status": null
+          },
+          {
+            "Data": "1138",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2667",
+            "Status": null
+          },
+          {
+            "Data": "1156",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3053",
+            "Status": null
+          },
+          {
+            "Data": "1184",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3427",
+            "Status": null
+          },
+          {
+            "Data": "1219",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3792",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1266",
+            "Status": null
+          },
+          {
+            "Data": "1367",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2558",
+            "Status": null
+          },
+          {
+            "Data": "1190",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3450",
+            "Status": null
+          },
+          {
+            "Data": "1136",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4195",
+            "Status": null
+          },
+          {
+            "Data": "1125",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4857",
+            "Status": null
+          },
+          {
+            "Data": "1136",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5465",
+            "Status": null
+          },
+          {
+            "Data": "1159",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6036",
+            "Status": null
+          },
+          {
+            "Data": "1190",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6577",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1315",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "1965",
+            "Status": null
+          },
+          {
+            "Data": "1141",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3098",
+            "Status": null
+          },
+          {
+            "Data": "1108",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3969",
+            "Status": null
+          },
+          {
+            "Data": "1116",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4717",
+            "Status": null
+          },
+          {
+            "Data": "1143",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5393",
+            "Status": null
+          },
+          {
+            "Data": "1182",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6019",
+            "Status": null
+          },
+          {
+            "Data": "1228",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6609",
+            "Status": null
+          },
+          {
+            "Data": "1280",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7172",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线3",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "837",
+              "1614"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1377",
+              "1260"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1841",
+              "1165"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2266",
+              "1137"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2667",
+              "1138"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3053",
+              "1156"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3427",
+              "1184"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3792",
+              "1219"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1266",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2558",
+              "1367"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3450",
+              "1190"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4195",
+              "1136"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4857",
+              "1125"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5465",
+              "1136"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6036",
+              "1159"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6577",
+              "1190"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "1965",
+              "1315"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3098",
+              "1141"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3969",
+              "1108"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4717",
+              "1116"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5393",
+              "1143"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6019",
+              "1182"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6609",
+              "1228"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7172",
+              "1280"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线3",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3230",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4711",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5944",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7045",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8064",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9027",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9948",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10839",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2276",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4140",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5537",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6744",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7841",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8868",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9843",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10779",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4950",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6857",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8424",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9806",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11072",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "12256",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "13377",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线4",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3230",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4711",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5944",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7045",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8064",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9027",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9948",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10839",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2276",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4140",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5537",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6744",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7841",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8868",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9843",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10779",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4950",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6857",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8424",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9806",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11072",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "12256",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "13377",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线4",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"4",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3767",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5141",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6322",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7392",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8391",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9339",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10248",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2995",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4635",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5955",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7119",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8190",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9197",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10158",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11085",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3225",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5642",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7406",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8901",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10239",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11474",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "12635",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "13740",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线5",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3767",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5141",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6322",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7392",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8391",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9339",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10248",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2995",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4635",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5955",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7119",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8190",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9197",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10158",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11085",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3225",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5642",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7406",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8901",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10239",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11474",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "12635",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "13740",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线5",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"4",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "2623",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4256",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5551",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6689",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7732",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8712",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9646",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10545",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "3601",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5098",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6356",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7484",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8533",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9523",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10471",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4165",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6272",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7927",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9360",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10660",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11868",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "13008",
+            "Status": null
+          },
+          {
+            "Data": "0",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "14098",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线6",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "2623",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4256",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5551",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6689",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7732",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8712",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9646",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10545",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "3601",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5098",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6356",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7484",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8533",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9523",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10471",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4165",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6272",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7927",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9360",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10660",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11868",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "13008",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "14098",
+              "0"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线6",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"4",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      },
+      {
+        "BorderType": "solid",
+        "ChartData": [
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "",
+            "Status": null
+          },
+          {
+            "Data": "1621",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "4062",
+            "Status": null
+          },
+          {
+            "Data": "1407",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "5195",
+            "Status": null
+          },
+          {
+            "Data": "1297",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "6159",
+            "Status": null
+          },
+          {
+            "Data": "1231",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7019",
+            "Status": null
+          },
+          {
+            "Data": "1189",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "7809",
+            "Status": null
+          },
+          {
+            "Data": "1162",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "8548",
+            "Status": null
+          },
+          {
+            "Data": "1144",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9247",
+            "Status": null
+          },
+          {
+            "Data": "1132",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "9913",
+            "Status": null
+          },
+          {
+            "Data": "1126",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "10551",
+            "Status": null
+          },
+          {
+            "Data": "1124",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11167",
+            "Status": null
+          },
+          {
+            "Data": "1125",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "11762",
+            "Status": null
+          },
+          {
+            "Data": "1128",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "12341",
+            "Status": null
+          },
+          {
+            "Data": "1133",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "12906",
+            "Status": null
+          },
+          {
+            "Data": "1139",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "13457",
+            "Status": null
+          },
+          {
+            "Data": "1147",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "13998",
+            "Status": null
+          },
+          {
+            "Data": "1157",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "14527",
+            "Status": null
+          },
+          {
+            "Data": "1167",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "15046",
+            "Status": null
+          },
+          {
+            "Data": "1178",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "15559",
+            "Status": null
+          },
+          {
+            "Data": "1190",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "16062",
+            "Status": null
+          },
+          {
+            "Data": "1203",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "16557",
+            "Status": null
+          },
+          {
+            "Data": "1217",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "17048",
+            "Status": null
+          },
+          {
+            "Data": "1231",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "17532",
+            "Status": null
+          },
+          {
+            "Data": "1246",
+            "Info": null,
+            "Name": null,
+            "SymbolSize": 0,
+            "Time": "18011",
+            "Status": null
+          }
+        ],
+        "FillColor": "transparent",
+        "IsMarkPoint": true,
+        "IsShowMarkLineText": false,
+        "IsToolTip":false,
+        "LineLabel": "",
+        "LineWidth": 2,
+        "MarkLineTextColor": "transparent",
+        "Name": "当前流量曲线7",
+        "StrokeColor": "#008702",
+        "YAxisIndex": 0,
+        "ZLevel": 2,
+        "Opacity": 1,
+        "MarkPointData": [
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "",
+              ""
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "4062",
+              "1621"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "5195",
+              "1407"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "6159",
+              "1297"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7019",
+              "1231"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "7809",
+              "1189"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "8548",
+              "1162"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9247",
+              "1144"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "9913",
+              "1132"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "10551",
+              "1126"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11167",
+              "1124"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "11762",
+              "1125"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "12341",
+              "1128"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "12906",
+              "1133"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "13457",
+              "1139"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "13998",
+              "1147"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "14527",
+              "1157"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "15046",
+              "1167"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "15559",
+              "1178"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "16062",
+              "1190"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "16557",
+              "1203"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "17048",
+              "1217"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "17532",
+              "1231"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          },
+          {
+            "IsLabel": false,
+            "SymbolType": "default",
+            "CustomSymbolIcon": "circle",
+            "Coord": [
+              "18011",
+              "1246"
+            ],
+            "FillColor": "#008702",
+            "BorderWidth": 0,
+            "BorderColor": "#008702",
+            "BorderType": "solid",
+            "SymbolSize": 8,
+            "Opacity": 1
+          }
+        ],
+        "Info":{
+          "Name":"当前流量曲线7",
+          "PumpList":[
+            {
+              "No":"1",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"2",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }, {
+              "No":"3",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"4",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            },{
+              "No":"5",
+              "Type":"定",
+              "Status":"开启",
+              "Speed":"",
+              "Frequency":""
+            }
+          ]
+        }
+      }
+    ],
+    "XAxisConfig": {
+      "show": true,
+      "AxisLine": {
+        "show": false,
+        "symbol": [
+          "none",
+          "none"
+        ],
+        "symbolSize": [
+          0,
+          0
+        ],
+        "symbolOffset": [
+          0,
+          0
+        ],
+        "lineStyle": {
+          "color": "#222222",
+          "width": 1,
+          "type": "solid",
+          "dashOffset": 0,
+          "opacity": 1
+        }
+      },
+      "AxisTick": {
+        "show": false,
+        "length": 5,
+        "inside": false,
+        "lineStyle": {
+          "color": "#222222",
+          "width": 1,
+          "type": "solid",
+          "dashOffset": 0,
+          "opacity": 1
+        }
+      },
+      "SplitLine": {
+        "show": false,
+        "lineStyle": {
+          "color": "#222222",
+          "width": 1,
+          "type": "solid",
+          "dashOffset": 0,
+          "opacity": 1
+        }
+      },
+      "AxisLabel": {
+        "IsShow": true,
+        "Color": "#222"
+      },
+      "SplitArea": {
+        "show": true,
+        "interval": "auto",
+        "areaStyle": {
+          "color": [
+            "rgba(250,250,250,0.3)",
+            "rgba(200,200,200,0.3)"
+          ],
+          "opacity": 1
+        }
+      },
+      "MinorSplitLine": {
+        "show": false,
+        "lineStyle": {
+          "color": "#222222",
+          "width": 1,
+          "type": "solid",
+          "dashOffset": 0,
+          "opacity": 1
+        }
+      }
+    },
+    "XAxisList": [
+      "837",
+      "1030",
+      "1209",
+      "1266",
+      "1377",
+      "1439",
+      "1537",
+      "1691",
+      "1786",
+      "1841",
+      "1965",
+      "1986",
+      "2127",
+      "2200",
+      "2266",
+      "2276",
+      "2392",
+      "2402",
+      "2535",
+      "2558",
+      "2623",
+      "2667",
+      "2763",
+      "2797",
+      "2879",
+      "2926",
+      "2995",
+      "3053",
+      "3098",
+      "3174",
+      "3178",
+      "3225",
+      "3230",
+      "3303",
+      "3407",
+      "3427",
+      "3450",
+      "3549",
+      "3601",
+      "3671",
+      "3696",
+      "3710",
+      "3767",
+      "3792",
+      "3913",
+      "3958",
+      "3969",
+      "4062",
+      "4140",
+      "4165",
+      "4195",
+      "4229",
+      "4256",
+      "4423",
+      "4478",
+      "4635",
+      "4643",
+      "4711",
+      "4717",
+      "4857",
+      "4949",
+      "4950",
+      "5065",
+      "5098",
+      "5141",
+      "5174",
+      "5195",
+      "5267",
+      "5393",
+      "5465",
+      "5537",
+      "5551",
+      "5607",
+      "5642",
+      "5659",
+      "5815",
+      "5849",
+      "5944",
+      "5955",
+      "6019",
+      "6036",
+      "6159",
+      "6219",
+      "6220",
+      "6272",
+      "6322",
+      "6356",
+      "6399",
+      "6416",
+      "6577",
+      "6609",
+      "6689",
+      "6744",
+      "6753",
+      "6800",
+      "6857",
+      "6926",
+      "6987",
+      "7019",
+      "7045",
+      "7119",
+      "7172",
+      "7392",
+      "7406",
+      "7484",
+      "7732",
+      "7809",
+      "7841",
+      "7927",
+      "8064",
+      "8190",
+      "8391",
+      "8424",
+      "8533",
+      "8548",
+      "8712",
+      "8868",
+      "8901",
+      "9027",
+      "9197",
+      "9247",
+      "9339",
+      "9360",
+      "9523",
+      "9646",
+      "9806",
+      "9843",
+      "9913",
+      "9948",
+      "10158",
+      "10239",
+      "10248",
+      "10471",
+      "10545",
+      "10551",
+      "10660",
+      "10779",
+      "10839",
+      "11072",
+      "11085",
+      "11167",
+      "11474",
+      "11762",
+      "11868",
+      "12256",
+      "12341",
+      "12635",
+      "12906",
+      "13008",
+      "13377",
+      "13457",
+      "13740",
+      "13998",
+      "14098",
+      "14527",
+      "15046",
+      "15559",
+      "16062",
+      "16557",
+      "17048",
+      "17532",
+      "18011"
+    ],
+    "YAxisConfig": [
+        {
+            "show": true,
+            "Name": "",
+            "MinMax": [0,2000],
+            "AxisLabel": {
+              "IsShow": true,
+              "Color": "#222"
+            },
+            "AxisLine": {
+              "show": false,
+              "symbol": [
+                "none",
+                "none"
+              ],
+              "symbolSize": [
+                0,
+                0
+              ],
+              "symbolOffset": [
+                0,
+                0
+              ],
+              "lineStyle": {
+                "color": "#222222",
+                "width": 1,
+                "type": "solid",
+                "dashOffset": 0,
+                "opacity": 1
+              }
+            },
+            "AxisTick": {
+              "show": false,
+              "length": 5,
+              "inside": false,
+              "lineStyle": {
+                "color": "#222222",
+                "width": 1,
+                "type": "solid",
+                "dashOffset": 0,
+                "opacity": 1
+              }
+            },
+            "SplitArea": {
+              "show": false,
+              "interval": "auto",
+              "areaStyle": {
+                "color": [
+                  "rgba(250,250,250,0.3)",
+                  "rgba(200,200,200,0.3)"
+                ],
+                "opacity": 1
+              }
+            },
+            "SplitLine": {
+              "show": true,
+              "lineStyle": {
+                "color": "#222222",
+                "width": 1,
+                "type": "solid",
+                "dashOffset": 0,
+                "opacity": 1
+              }
+            },
+            "MinorSplitLine": {
+              "show": false,
+              "lineStyle": {
+                "color": "#222222",
+                "width": 1,
+                "type": "solid",
+                "dashOffset": 0,
+                "opacity": 1
+              }
+            }
+          }
+    ]
+  }
+}
