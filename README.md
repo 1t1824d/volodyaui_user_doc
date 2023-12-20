@@ -42,6 +42,8 @@ Vue.use(volodyaui)
           @MyCustomChartMouseMove="MyCustomChartMouseMoveFun"
           @MyCustomChartMouseOut="MyCustomChartMouseOutFun"
           @MyCustomChartMouseClick="MyCustomChartMouseClickFun"
+           @MyCustomChartFinished="MyCustomChartFinishedFun"
+          @MyCustomChartRendered="MyCustomChartRenderedFun"
         >
       </component>
       <div id="InfoBox"></div>
@@ -398,6 +400,7 @@ Vue.use(volodyaui)
               FontSize: 12,
               FontColor: '#6E7B8B',
               Position: 'center', //'right'/'80%'
+              Type:"plain"
             },
             GraphicImg: '', //require('./基础数据曲线背景1.png'),
             IsGetDataURL: false,
@@ -439,6 +442,8 @@ Vue.use(volodyaui)
           @MyCustomChartMouseMove="MyCustomChartMouseMoveFun"
           @MyCustomChartMouseOut="MyCustomChartMouseOutFun"
           @MyCustomChartMouseClick="MyCustomChartMouseClickFun"
+           @MyCustomChartFinished="MyCustomChartFinishedFun"
+          @MyCustomChartRendered="MyCustomChartRenderedFun"
 ```
 
 !> itemChart 数据源
@@ -533,6 +538,19 @@ Vue.use(volodyaui)
       //     params.data.CustomInfo
       //   );
       // }
+    },
+
+    
+    @MyCustomChartFinished="MyCustomChartFinishedFun"
+
+     MyCustomChartFinishedFun(chart,chartData){
+      console.log(`MyCustomChartFinishedFun---chart,chartData`, chart,chartData);
+    },
+
+    @MyCustomChartRendered="MyCustomChartRenderedFun"
+    
+    MyCustomChartRenderedFun(chart,chartData){
+      console.log(`MyCustomChartRenderedFun---chart,chartData`, chart,chartData);
     },
 ```
 
