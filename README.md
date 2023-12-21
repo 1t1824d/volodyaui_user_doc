@@ -768,3 +768,7 @@ export default {
 #### 实现功能 3
 
 ![实现功能3](../assets/img/c1.png ":size=100%")
+
+#### 实现功能14
+
+   ![实现功能3](../assets/img/动画.gif ':size=100%')
