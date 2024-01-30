@@ -322,10 +322,10 @@
                   Position: 'start',
                   Padding: [2, 8, 0, 8],
                 },
-                ConnectNulls: true,
-                Smooth: true,
                 ///////
               },
+              ConnectNulls: true,
+              Smooth: true,
             },
             YAxisConfig: ChartConfig.YAxisConfig,
             YFormatterConfig: [
